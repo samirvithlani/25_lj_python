@@ -1,0 +1,5 @@
+1) get 2 from user and check which is bigger
+2) get 2 from user and check which is bigger and store big no is max variable and small in min variable
+
+max =None
+min = None
