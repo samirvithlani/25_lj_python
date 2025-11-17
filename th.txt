@@ -1,0 +1,48 @@
+operators:
+operators are the special symbol which is use to perform operation on operands
+
+Type of operators:
+
+unery operators: it required only 1 operands
+                : ++a ,a--....
+binery operators :
+                it required min 2 operands:
+
+ternery operators: ir required min 3 operand
+
+python does not have unery operators
+
+binery operators:
+1)arithmertic operators : +, -, * ,/,% , //(floor operators), **
+2)realtional operators  :>,<.>=<=, == , !=
+3)logical operators: and or not
+4)asignment operators : =, +=, -+,...
+5)bitwise operators
+
+6)membership operators : in,not in
+7)identity operators   : is,is not
+
+
+
+TYPE CAST:
+implicit type      explicit ty
+compiler           programmer
+
+int f =100.20;     int a = (int)100.20;
+printf(f) //100
+
+                        broad typecast
+                        narrow typecast
+
+                        5 ltr -->10 ltr narrow type cast
+                        15 ltr -->2 ltr --> broad type cast
+
+                        float type data --> int --> narrow type cast
+                        int type data --> float --> broad type cast
+
+decision making statements:
+1)if else
+2)switch case / match case..
+3)loops
+
+-------------------------------
