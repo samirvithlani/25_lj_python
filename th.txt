@@ -1,3 +1,24 @@
+PYTHON:
+what is prog lang ????
+intrep:
+
+scripting lang or prog:
+
+dynamically typed and statically typed
+
+use case:
+--------
+Desktop app: chrome,whatsapp,word,365 : 
+WEB APPLCATION:w3,a , python: django
+Mobile app: :
+utilty app:
+Data science: AI,ML
+
+
+
+python is case sensitive
+
+
 operators:
 operators are the special symbol which is use to perform operation on operands
 
@@ -46,3 +67,6 @@ decision making statements:
 3)loops
 
 -------------------------------
+
+python does not follow {} braces
+it has indentations
