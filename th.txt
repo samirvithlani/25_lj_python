@@ -70,3 +70,16 @@ decision making statements:
 
 python does not follow {} braces
 it has indentations
+
+LOGICAL OP:
+and or not
+
+cond1 and cond2
+T ---> T ---->T
+T ---> F ---->f
+F -- -------->F
+
+cond1 or cond2
+T ---------->T
+F ---->T --->T
+F --->F----->F
