@@ -83,3 +83,19 @@ cond1 or cond2
 T ---------->T
 F ---->T --->T
 F --->F----->F
+
+loops:
+enter control loops : for while
+
+python does not have
+exit control loop   : do while
+
+for loop and while
+
+for: when you know no of iteration (sp and ep)
+while : when we dont know no of iteration
+
+for(int i=1;i<=10;i++)
+for(initi;cond;inremtn)
+
+range function for loop
