@@ -3,3 +3,6 @@
 
 max =None
 min = None
+
+
+no = 123 --> digits -->3
