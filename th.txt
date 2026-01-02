@@ -111,3 +111,19 @@ range(10,-1,-1)
 20 ->0
 20 - 18 - 16 - 14
 range(20,-1,-2)
+
+#LCM OF 2 numbers
+lowest common multipule
+# 10 15 
+#30
+-----------------------------------4
+numbers int float...
+char:
+String:str
+
+charatrstics:
+1) String is immutable: no modification can not allow eg: x = "India", x[0]="i"
+2) string stores data in index
+3) String is dynamic in size
+4) string allows duplicate chars
+5) data type of string is str

@@ -6,3 +6,33 @@ min = None
 
 
 no = 123 --> digits -->3
+
+get bank balance from user, min balance is required 10000
+
+eg:
+enter bank bal: 8000
+invalid bal 
+enter bank bal : 9000
+invalid bal 
+enter bank bal : 12000
+
+ac open
+
+enter bank bal: 8000
+invalid bal 
+enter bank bal : 9000
+invalid bal 
+enter bank bal : 2000
+invalid bal:
+try again latter..
+
+
+
+please enter amount:999
+500  * 1 = 1note
+200 * 1 = 1 note
+100 * 1 =1 note
+50 * 1 = 1 note
+20 * 2 = 2 note
+5 * 1 = 1 note
+2 * 2 = 2 note
