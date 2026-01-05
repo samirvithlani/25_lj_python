@@ -36,3 +36,8 @@ please enter amount:999
 20 * 2 = 2 note
 5 * 1 = 1 note
 2 * 2 = 2 note
+
+
+check string palindrome or note
+naman == naman
+abc not
