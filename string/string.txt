@@ -9,3 +9,17 @@ len
 lstrip
 rstrip
 strip
+isDigit
+isNumric
+isalpha
+isalnum
+isspace
+isprintable
+isUpper
+isLower
+istitle
+endswith
+strastswith
+index
+find
+repalce

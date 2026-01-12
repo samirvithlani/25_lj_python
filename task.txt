@@ -41,3 +41,7 @@ please enter amount:999
 check string palindrome or note
 naman == naman
 abc not
+
+--------------------------------
+1) string declare you have to find no of digits in string
+eg: "java18" -->2, "gorge3" - 1
