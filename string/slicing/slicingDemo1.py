@@ -35,5 +35,11 @@ text = "abcdef"
 print(text[::2]) #0 1 2 3 4 5......... increment 2
 #ace
 print(text[::3]) 
-
 print(text[::-1])
+
+text = "PythonProgramming"
+print(text[5:0:-1]) #5 4 3 2 1
+
+print(text[10::-1]) #
+
+print(text[2:12:2])
