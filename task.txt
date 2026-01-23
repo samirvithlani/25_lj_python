@@ -58,5 +58,15 @@ task 3
 Hello!
 Hello
 
+list:
+
+1)get name from user and add it to list
+eg:
+enter name : ram -->
+enter name : raj -->
+enter name : exit --> break
+
+print
+
 
 
