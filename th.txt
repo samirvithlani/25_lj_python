@@ -127,3 +127,23 @@ charatrstics:
 3) String is dynamic in size
 4) string allows duplicate chars
 5) data type of string is str
+
+ds:
+        array
+list
+tuple
+dict
+set 
+
+list:
+list is collection of elements
+list allows duplicate elements
+list is hetrogenious
+list stores data in index
+list is iterable: loop
+list is supscritable:
+list is mutable
+data type of list is list
+we can decalre list using [] braces
+list is dynamic in size
+
