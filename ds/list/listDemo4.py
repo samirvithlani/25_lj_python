@@ -1,4 +1,4 @@
-marks = [90,87,65,99,79,81]
+marks = [90,87,65,87,99,79,81]
 print(marks)
 
 #marks.pop()
