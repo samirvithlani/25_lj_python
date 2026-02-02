@@ -4,6 +4,8 @@ print(marks)
 ind = marks.index(12)
 print("index ",ind)
 
+#------------>index first occ.... last ...
+
 
 cnt =marks.count(12)
 print("cnt",cnt)
