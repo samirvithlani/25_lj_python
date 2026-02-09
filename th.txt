@@ -147,3 +147,18 @@ data type of list is list
 we can decalre list using [] braces
 list is dynamic in size
 
+
+tuple:
+tuple is collection of elements
+typle allows duplicate elements
+tuple is hetrogenious
+tuple stores data in index
+tuple is iterable: loop
+tuple is supscritable:
+tuple is immutable
+data type of tuple is tuple
+we can decalre tuple () braces
+tuple is dynamic in size
+
+
+
