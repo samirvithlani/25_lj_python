@@ -160,5 +160,15 @@ data type of tuple is tuple
 we can decalre tuple () braces
 tuple is dynamic in size
 
+dict:
+dict stores data in key value pair {key:value}
+dict allows duplicate values not key
+dict is iterable
+dict is supscritable
+dist is mutabl
+data type of dict is dict
+we can create dict using  {} braces
+dynamic
+
 
 
