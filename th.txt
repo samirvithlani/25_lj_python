@@ -171,4 +171,16 @@ we can create dict using  {} braces
 dynamic
 
 
+data ={}
+
+key --> value
+
+for i,j in ite ***
+
+key value --> 
+
+
+print -->{} empty
+
+
 
