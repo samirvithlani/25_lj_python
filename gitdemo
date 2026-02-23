@@ -1,0 +1,21 @@
+folder -->
+ctrl + l --> cmd enter
+
+git init
+  remote..
+
+git status
+
+git add .   :--> all data
+
+specific file
+git add abc.txt
+git add *.java ->all java
+git add *.txt -->
+
+status --> green -->commit eligible..
+git commit -m "git demo session first commit"
+
+push
+git push -u origin master
+
