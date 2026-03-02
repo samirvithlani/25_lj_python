@@ -183,4 +183,19 @@ key value -->
 print -->{} empty
 
 
+set:
+set is collection of elements
+set does not allows duplicate elements
+set is hetrogenious
+set stores data in hash
+set is iterable: loop
+set is not supscritable:
+set is mutable
+data type of set is set
+we can decalre list using {} braces
+set is dynamic in size
+set is unordered..
+
+
+
 
