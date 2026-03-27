@@ -197,5 +197,51 @@ set is dynamic in size
 set is unordered..
 
 
+function:
+function is collection of statements:
+
+-->
+line draw logic: --> 20 lines
+----------------------------------------------------------
+
+100 time line draw : 100 * 20 = 2000
+20 -->line 2000 line --> 20 is beeter
+
+drawline()
+20 line logic..
+
+
+100 time function call
+------------------------------------------
+____________________________________________________________
+------------------------------------------------------------
+
+python def keyword
+
+type of functions:
+2 type of function are therr
+
+built in function
+udf function
+
+<----------------->
+
+1) with argument/parame with return type
+2) with argument/parame without/no return type
+3) without/no argument/parame with return type
+4) without/no argument/parame without return type
+
+print() #no argument
+print("hello") #with argument
+
+ans = len(x) #with return typ with argumen
+
+
+void sum()
+int sum()
+float sum()
+
+in function if we specify return keywird it will be with return type
+
 
 
