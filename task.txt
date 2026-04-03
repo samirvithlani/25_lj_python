@@ -70,3 +70,21 @@ print
 
 
 check who have scored heighest run.
+
+
+pass 5 numbers in args and return sum of that numbers
+
+pass 3 arguments in args and check all argument must be int only if yes return true else false
+
+calc("+",10,20,30,40,50) #args
+
+kwrgs
+
+data(.........)
+return all keys as list ...
+
+data(name=ajay,age2=3)
+
+checkData(name="amit"city="ahm"..)
+
+values data type string if yes ---> True , False
