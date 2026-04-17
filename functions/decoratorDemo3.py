@@ -13,8 +13,8 @@ def loginRequired(func):
 @loginRequired
 def access_data(role):
     print("accessing data and my role is",role)
-
 access_data("ADMIN")    
+
 
 @loginRequired
 def access_files(role):
