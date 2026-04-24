@@ -244,4 +244,14 @@ float sum()
 in function if we specify return keywird it will be with return type
 
 
+mode: r,w,a,r+,w+,a+,
+
+PATH:| location |url 
+
+Prgat... : relative add:
+a-202 ,abc appt, opp, bh
+
+relative path: task.txt
+             : functions\decoratorDemo6.py
+absolute path: D:\royal\24_lj_python\task.txt
 

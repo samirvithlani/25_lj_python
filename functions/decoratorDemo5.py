@@ -1,7 +1,25 @@
 
+def check(func):
+    def inner(name,**kwargs):
+        if "age" not in kwargs:
+            print("age is not present")
+            return
+        if "course" not in kwargs:
+            print("course is not present")
+            return
+        if kwargs['age'] < 18:
+            print("not valid...")
+            return 
+        
+        func(name,**kwargs)     
+    return inner    
+            
+                
+    
 
-def admission():
-    pass
+@check
+def admission(name,**kwargs):
+    print("admisison granted..")
 
 
 admission("raj",age=19,course="IT") #valid
