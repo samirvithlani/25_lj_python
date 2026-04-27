@@ -88,3 +88,19 @@ data(name=ajay,age2=3)
 checkData(name="amit"city="ahm"..)
 
 values data type string if yes ---> True , False
+
+dict:
+{name:age...}
+
+output:
+Name : value
+
+
+infinite user name store:
+name ->raj -->
+name --> parth
+name -->exit
+
+
+-->run --> name store --> append..
+
