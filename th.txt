@@ -255,3 +255,35 @@ relative path: task.txt
              : functions\decoratorDemo6.py
 absolute path: D:\royal\24_lj_python\task.txt
 
+
+<------------------>
+
+data = {"rohit":[100,20,121],"Virat":[90,98,78],"Kl":[151,89,7]}
+
+op:
+
+Score:
+
+Player Name : rohit
+Match 1:100
+Match 2:20
+Match 3:121
+
+toal : 241
+
+Player Name : rohit
+Match 1:100
+Match 2:20
+Match 3:121
+
+toal : 241
+
+
+Player Name : rohit
+Match 1:100
+Match 2:20
+Match 3:121
+
+toal : 241
+
+total score - 1000
