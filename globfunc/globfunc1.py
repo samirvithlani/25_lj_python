@@ -82,4 +82,6 @@ print(result)
     
  
 #sort.   
-#students = {"amit":23,"summit":24,"raj":23,"ajay":24,"sujay":23}    
+students = {"amit":23,"summit":24,"raj":23,"ajay":24,"sujay":23}    
+sortedstudents = sorted(students.items(),key=lambda x:x[1])
+print(sortedstudents)
