@@ -291,3 +291,25 @@ total score - 1000
 find your age :
 today -- bd ---> 
 12 month -->day
+
+OOPS:
+
+4 piller concept
+inheritance:to use prop of parent class in child class this process called inheritance
+encapsulation:to wrap data in single unit 
+              : class obj const methods
+poly:         : many form of the function:
+abstracation:  hide data.
+
+class object..
+
+class: class is blueprint of object:
+object:object is realword entity of class
+
+class    object:
+fruit     apple
+
+
+school   student
+hosp     doctors,.. 
+
