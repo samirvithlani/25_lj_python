@@ -9,6 +9,7 @@ class Demo:
         print("test function of demo class called..")
         self.no1 = 100 #instance variable... not local
         no2 = 200 #local variable
+        print("no2...",no2)
     
     def call(self):
         print(self.no1)    

@@ -313,3 +313,14 @@ fruit     apple
 school   student
 hosp     doctors,.. 
 
+
+
+create class
+
+1 funcion args no1,no2 -->sum return
+
+
+create class
+funcion it will accespt args as aregument passss only number check it .
+if all are numbers return sum of all nummbers 
+and print it
