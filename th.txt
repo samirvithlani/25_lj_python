@@ -330,3 +330,41 @@ compile time : overloading
         same name of function with diff argument in same class
 
 run time : overridig
+
+        parent class created in child class with same signature
+
+        use:
+
+Facebook:
+Smile Develop:
+
+smile:
+outsource:
+
+x,y,z
+Facebook parent : --> smile
+
+TRAI:
+
+jio,airtel
+
+     TRAI
+     call
+
+jiocall,airtelcall
+
+     call   
+
+BOB --> upi -->bob  -->HDFC
+
+      RBI
+      upi()  
+bobupi --> hdfcupi
+
+
+oracle   ||   mysql
+
+        connection -->java
+        
+
+
