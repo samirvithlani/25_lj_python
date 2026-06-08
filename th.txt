@@ -324,3 +324,9 @@ create class
 funcion it will accespt args as aregument passss only number check it .
 if all are numbers return sum of all nummbers 
 and print it
+
+compile time : overloading
+
+        same name of function with diff argument in same class
+
+run time : overridig
