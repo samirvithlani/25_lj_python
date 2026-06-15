@@ -365,6 +365,19 @@ bobupi --> hdfcupi
 oracle   ||   mysql
 
         connection -->java
-        
 
 
+exception error?
+
+error ?  syntex: programme compile
+
+exception: run ->
+
+error must reslove..
+exception needs to handle
+
+
+try and except block
+
+
+main exception class Exception class
