@@ -12,6 +12,8 @@ except ValueError as e:
     print(e)
 except Exception as e:
     print("error..",e)    
-    
+
+finally:
+    print("finally exceute")    
     
 

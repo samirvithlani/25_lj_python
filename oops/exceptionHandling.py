@@ -6,7 +6,7 @@ try:
     
 except ZeroDivisionError:
     print("can not divide by zero..")    
-except ValueError:
+except (ValueError,TypeError) as e:
     print("check input..")    
 except:
     print("error..")    

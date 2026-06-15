@@ -381,3 +381,23 @@ try and except block
 
 
 main exception class Exception class
+
+
+try:
+ file opn -->50
+ 1
+ 2
+ 3
+ 4
+ ...
+ 41 ex
+ ..50
+
+ 1close
+ 2..
+ 3
+
+
+
+except:
+        
